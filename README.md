@@ -22,8 +22,8 @@
         🚀 Lernen durch echtes Bauen
       </p>
     </td>
-    <td width="42%" align="right">
-      <img src="./assets/me.png" width="260" alt="Profilbild" />
+    <td width="42%" align="center">
+      <img src="./assets/brain.png" width="300" alt="Profilbild" />
     </td>
   </tr>
 </table>
